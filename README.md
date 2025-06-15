@@ -6,9 +6,7 @@
 <p align="center">🚀 Passionate <Strong>Software Developer</Strong> | <Strong>MERN Stack Developer</Strong> | <Strong>DSA Enthusiast</Strong>  </p>
 <p align="center">
   
-  🚀 I’m a passionate and growth-oriented developer who loves building meaningful web applications and solving real-world problems through code. With a strong foundation in data structures, algorithms, and full-stack development, I enjoy creating scalable solutions using modern technologies like React, Node.js, MongoDB, and TypeScript.
-  
-  🌱 I actively contribute to coding communities, host challenges, and lead collaborative projects that empower peers to grow in development and problem-solving. My interest lies in building products that are clean, performant, and impactful.
+  🚀 I’m a passionate and growth-oriented developer who loves building meaningful web applications and solving real-world problems through code. With a strong foundation in data structures, algorithms, and full-stack development, I enjoy creating scalable solutions using modern technologies like React, Node.js, MongoDB, and TypeScript. I actively contribute to coding communities, host challenges, and lead collaborative projects that empower peers to grow in development and problem-solving. My interest lies in building products that are clean, performant, and impactful.
   
   💡 I'm always exploring new tools, frameworks, and cloud technologies to sharpen my skills — continuously learning, building, and improving.
 </p>
