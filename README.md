@@ -1,8 +1,8 @@
-<div style="width:100%;">
+<div>
   <img src="https://res.cloudinary.com/dtimielwr/image/upload/v1749971045/Professional%20Doc/Github_Cover_eo7roc.png" alt="Gahinath Madake Banner" />
 <div>
   
-# Hi there, I'm Gahinath Madake! 👋
+<h2 align="center">Hi there, I'm Gahinath Madake! 👋</h2>
 
 🚀 Passionate **Software Developer** | **MERN Stack Developer** | **DSA Enthusiast**  
 
