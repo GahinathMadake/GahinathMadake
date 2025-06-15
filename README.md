@@ -62,7 +62,11 @@
   <a href="https://www.linkedin.com/in/gahinath-madake-28517b2a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gahinath_Madake-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  
+  &nbsp;
+  <a href="mailto:gahinathmadake@gmail.com">
+    <img src="https://img.shields.io/badge/📧_gahinathmadake@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border: none;"/>
+  </a>
+  &nbsp;
   <a href="mailto:gahinathmadake@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-gahinathmadake@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
