@@ -16,55 +16,9 @@
 
 
 ### 🌐 Connect with me
-<!-- LinkedIn -->
-<p>
-  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
-  <a href="https://www.linkedin.com/in/gahinath-madake-28517b2a1/" target="_blank">
-    <img src="https://img.shields.io/badge/Gahinath%20Madake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<!-- Email -->
-<p>
-  <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail" />
-  <a href="mailto:gahinathmadake@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gahinathmadake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- Portfolio -->
-<p>
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=internet-explorer" />
-  <a href="https://gahinathmadake.github.io/MyPortfolio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-007ACC?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
-</p>
-
-<!-- LeetCode -->
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" />
-  <a href="https://leetcode.com/u/gahinathmadake09/" target="_blank">
-    <img src="https://img.shields.io/badge/gahinathmadake09-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-<!-- CodeChef -->
-<p>
-  <img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef" />
-  <a href="https://www.codechef.com/users/gahinathm09/" target="_blank">
-    <img src="https://img.shields.io/badge/gahinathm09-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gahinath-madake-28517b2a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gahinath_Madake-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:gahinathmadake@gmail.com">
-    <img src="https://img.shields.io/badge/📧_gahinathmadake@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border: none;"/>
   </a>
   &nbsp;
   <a href="mailto:gahinathmadake@gmail.com" target="_blank">
