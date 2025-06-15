@@ -3,8 +3,7 @@
 <div>
   
 <h2 align="center">Hi there, I'm Gahinath Madake! 👋</h2>
-
-🚀 Passionate **Software Developer** | **MERN Stack Developer** | **DSA Enthusiast**  
+<p align="center">🚀 Passionate **Software Developer** | **MERN Stack Developer** | **DSA Enthusiast** </p>
 
 
 <h2 style="display: flex; align-items: center; gap: 10px;">
