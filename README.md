@@ -1,5 +1,5 @@
 <div class="width:100%;">
-  <img src="https://res.cloudinary.com/dtimielwr/image/upload/v1749971045/Professional%20Doc/Github_Cover_eo7roc.png.png" alt="Gahinath Madake Banner" />
+  <img src="https://res.cloudinary.com/dtimielwr/image/upload/v1749971045/Professional%20Doc/Github_Cover_eo7roc.png" alt="Gahinath Madake Banner" />
 <div>
   
 # Hi there, I'm Gahinath Madake! 👋
