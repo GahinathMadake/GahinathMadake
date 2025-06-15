@@ -1,4 +1,4 @@
-<div class="width:100%;">
+<div style="width:100%;">
   <img src="https://res.cloudinary.com/dtimielwr/image/upload/v1749971045/Professional%20Doc/Github_Cover_eo7roc.png" alt="Gahinath Madake Banner" />
 <div>
   
@@ -6,12 +6,11 @@
 
 🚀 Passionate **Software Developer** | **MERN Stack Developer** | **DSA Enthusiast**  
 
----
 
-<h2 align="center">
-  🤝 Feel Free to Contact Me — I'm Always Here... - 
+<h2 style="display: flex; align-items: center; gap: 10px;">
+  <p>🤝 Feel Free to Contact Me — I'm Always Here... </p> 
   <a href="https://github.com/GahinathMadake" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Follow" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/FollowMe?style=for-the-badge&logo=github" alt="GitHub Follow" style="vertical-align: middle;" />
   </a>
 </h2>
 
