@@ -16,46 +16,6 @@
 
 
 ### 🌐 Connect with me
-
-<div width="100%">
-  <div>
-    <span>Linked In:</span>
-    <a href="https://www.linkedin.com/in/gahinath-madake-28517b2a1/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-  </div>
-
-  <div>
-    <span>Email:</span> 
-    <a href="mailto:gahinathmadake@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </div>
-
-  <div>
-    <span>Portfolio:</span>
-    <a href="https://gahinathmadake.github.io/MyPortfolio.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-🌐%20Visit-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
-    </a>
-  </div>
-
-  <div>
-    <span>Leetcode</span> 
-    <a href="https://leetcode.com/u/gahinathmadake09/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-  </div>
-
-  <div>
-    <span>CodeChef</span> 
-    <a href="https://www.codechef.com/users/gahinathm09/" target="_blank">
-      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-    </a>
-  </div>
-  
-</div>
-
-
 <!-- LinkedIn -->
 <p>
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
@@ -102,7 +62,7 @@
   <a href="https://www.linkedin.com/in/gahinath-madake-28517b2a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gahinath_Madake-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;
+  
   <a href="mailto:gahinathmadake@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-gahinathmadake@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
