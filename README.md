@@ -1,3 +1,7 @@
+<div class="width:100%;">
+  <img src="https://res.cloudinary.com/dtimielwr/image/upload/v1749971045/Professional%20Doc/Github_Cover_eo7roc.png.png" alt="Gahinath Madake Banner" />
+<div>
+  
 # Hi there, I'm Gahinath Madake! 👋
 
 🚀 Passionate **Software Developer** | **Open-Source Contributor** | **Tech Enthusiast**  
@@ -12,13 +16,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
 ---
 
 ⭐ From **[Gahinath Madake](https://github.com/GahinathMadake)**
