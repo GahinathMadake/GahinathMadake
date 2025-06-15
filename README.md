@@ -8,7 +8,7 @@
 
 
 <h2 style="display: flex; align-items: center; gap: 10px;">
-  <p>🤝 Feel Free to Contact Me — I'm Always Here... </p> 
+  🤝 Feel Free to Contact Me — I'm Always Here... 
   <a href="https://github.com/GahinathMadake" target="_blank">
     <img src="https://img.shields.io/badge/Follow-Github-black?style=for-the-badge&logo=github" alt="GitHub Follow" style="vertical-align: middle;" />
   </a>
